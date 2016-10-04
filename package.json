@@ -30,6 +30,7 @@
     "strophejs-plugins": "^0.0.6"
   },
   "devDependencies": {
+    "string-replace": "*",
     "babel-core": "*",
     "babel-loader": "*",
     "babel-polyfill": "*",
